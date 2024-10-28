@@ -1,6 +1,9 @@
 # Hi there 👋
 ![]([https://komarev.com/ghpvc/?username=itsme12453](https://komarev.com/ghpvc/?username=kokosr))
 
+<h1 align="center">Koko</h1>
+<a href="https://github.com/kokosr"></a>
+
 <p align="center">
   <img height="25" src="https://komarev.com/ghpvc/?username=sexfrance&color=blueviolet" alt="Profile Views"/>
   <img height="25" src="https://img.shields.io/github/followers/sexfrance?color=4a12ba&style=for-the-badge&logo=github&label=Follow" alt="Followers"/>
