@@ -1,3 +1,5 @@
+![Header](./header.png)
+
 # Hi there 👋
 ![]([https://komarev.com/ghpvc/?username=itsme12453](https://komarev.com/ghpvc/?username=kokosr))
 
@@ -25,3 +27,5 @@
   <img src="https://streak-stats.demolab.com?user=jzitnik-dev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jzitnik-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+![Footer](./footer.png)
