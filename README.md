@@ -1,5 +1,3 @@
-![Header](./header.png)
-
 # Hi there 👋
 ![]([https://komarev.com/ghpvc/?username=itsme12453](https://komarev.com/ghpvc/?username=kokosr))
 
