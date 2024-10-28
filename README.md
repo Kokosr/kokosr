@@ -1,6 +1,13 @@
 # Hi there 👋
 ![]([https://komarev.com/ghpvc/?username=itsme12453](https://komarev.com/ghpvc/?username=kokosr))
 
+<p align="center">
+  <img height="25" src="https://komarev.com/ghpvc/?username=sexfrance&color=blueviolet" alt="Profile Views"/>
+  <img height="25" src="https://img.shields.io/github/followers/sexfrance?color=4a12ba&style=for-the-badge&logo=github&label=Follow" alt="Followers"/>
+  <img height="25" src="https://img.shields.io/github/stars/sexfrance?color=f429ff&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
+</p>
+<br>
+
 - 🔭 I’m currently working on an AI Forms Builder - It allows you to create forms and quizes with AI, which can be automatically marked with AI.
 - 🌱 I’m currently learning cyber security
 - 👯 I’m looking to collaborate on any projects you have in mind!
