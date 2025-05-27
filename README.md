@@ -14,7 +14,6 @@
 - 🔭 I’m currently working on an AI Forms Builder - It allows you to create forms and quizes with AI, which can be automatically marked with AI.
 - 🌱 I’m currently learning cyber security
 - 👯 I’m looking to collaborate on any projects you have in mind!
-- 📫 How to reach me: onemarket@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
