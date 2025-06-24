@@ -13,9 +13,12 @@
 - 🌱 I’m currently learning cyber security
 - 👯 I’m looking to collaborate on any projects you have in mind!
 
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,flask,ts,react,next,nodejs,html,css,go,rust"/>
+    <img src="https://skillicons.dev/icons?i=py,flask,ts,react,next,nodejs,html,css,go,rust,unity,vscode,webflow,supabase,sublime,raspberrypi,php,lua,idea,figma,discord,"/>
 </p>
 
 <div align="center">
