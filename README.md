@@ -4,16 +4,12 @@
 <h1 align="center">Koko</h1>
 <a href="https://github.com/kokosr"></a>
 
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
 <p align="center">
   <img height="25" src="https://komarev.com/ghpvc/?username=sexfrance&color=blueviolet" alt="Profile Views"/>
 </p>
 <br>
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
 
-- 🔭 I’m currently working on an AI Forms Builder - It allows you to create forms and quizes with AI, which can be automatically marked with AI.
-- 🌱 I’m currently learning cyber security
-- 👯 I’m looking to collaborate on any projects you have in mind!
+Hi, I'm kyosl! I love working on exciting projects, exploring new technologies, and writing clean, efficient code. Here you'll find my projects, experiments, and contributions to the open-source community.
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
