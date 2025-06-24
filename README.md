@@ -13,7 +13,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kokosr&theme=dark&show_icons=true&hide_border=true&count_private=true" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokosr&theme=dark&show_icons=true&hide_border=true&layout=compact" height="150" alt="streak graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kokosr&theme=dark&hide_border=true" height="150" alt="streak graph"  />
 </div>
 
 <p align="center">
