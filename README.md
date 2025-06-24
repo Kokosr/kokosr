@@ -19,4 +19,4 @@
     <img src="https://skillicons.dev/icons?i=py,flask,ts,react,next,nodejs,html,css,go,rust,unity,vscode,webflow,supabase,sublime,raspberrypi,php,lua,idea,figma,discord,"/>
 </p>
 
-
+![Footer](./footer.png)
