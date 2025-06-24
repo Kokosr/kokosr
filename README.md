@@ -1,4 +1,5 @@
 # Hi there 👋
+![]([https://komarev.com/ghpvc/?username=itsme12453](https://komarev.com/ghpvc/?username=kokosr))
 
 <p align="center">
   <img height="25" src="https://komarev.com/ghpvc/?username=sexfrance&color=blueviolet" alt="Profile Views"/>
