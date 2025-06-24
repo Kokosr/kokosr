@@ -13,7 +13,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kokosr&theme=dark&show_icons=true&hide_border=true&count_private=true" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokosr&theme=dark&show_icons=true&hide_border=true&layout=compact" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kokosr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kokosr&theme=dark&hide_border=true" height="150" alt="streak graph"  />
 </div>
 
 <p align="center">
