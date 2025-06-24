@@ -1,7 +1,4 @@
 # Hi there 👋
-![]([https://komarev.com/ghpvc/?username=itsme12453](https://komarev.com/ghpvc/?username=kokosr))
-<h1 align="center">Koko</h1>
-<a href="https://github.com/kokosr"></a>
 
 <p align="center">
   <img height="25" src="https://komarev.com/ghpvc/?username=sexfrance&color=blueviolet" alt="Profile Views"/>
