@@ -15,8 +15,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokosr&theme=dark&show_icons=true&hide_border=true&layout=compact" height="150" alt="streak graph"  />
 </div>
 
-[![kyosl profile views](https://u8views.com/api/v1/github/profiles/173194936/views/day-week-month-total-count.svg)](https://u8views.com/github/Kokosr)
-
 <p align="center">
     <img src="https://skillicons.dev/icons?i=py,flask,ts,react,next,nodejs,html,css,go,rust,unity,vscode,webflow,supabase,sublime,raspberrypi,php,lua,idea,figma,discord,"/>
 </p>
