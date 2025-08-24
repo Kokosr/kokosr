@@ -2,7 +2,7 @@
 ![]([https://komarev.com/ghpvc/?username=itsme12453](https://komarev.com/ghpvc/?username=kokosr))
 
 <p align="center">
-  <img height="25" src="https://komarev.com/ghpvc/?username=sexfrance&color=blueviolet" alt="Profile Views"/>
+  <img height="25" src="https://komarev.com/ghpvc/?username=kokosr&color=blueviolet" alt="Profile Views"/>
 </p>
 <br>
 -Hi, I'm kyosl! I love working on exciting projects, exploring new technologies, and writing clean, efficient code. Here you'll find my projects, experiments, and contributions to the open-source community - https://kyosl.com/ -
